@@ -9,4 +9,9 @@ hello world
 
 
 
-hello guys                 
+hello guys
+
+## Development Enviranment
+
+Make sure you have javascript available
+Run index.html in browser
